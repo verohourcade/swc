@@ -1,4 +1,4 @@
-Relatório do Encontro de Ciência Aberta
+﻿Relatório do Encontro de Ciência Aberta
 1 - Informar quais outras atividades pretendem participar no workshop - Oficinas do dia 19 - Wikiversidade, abrindo projetos e cadernos de pesquisa
 e Pesquisa visual.
 2 - Informar quais seminários pretendem participar - toda a programação do seminário, do dia 20 ao dia 22.
@@ -6,4 +6,6 @@ e Pesquisa visual.
 
 
 wikipesquisas
+
+3 - Alteração de Michelli Costa
 
